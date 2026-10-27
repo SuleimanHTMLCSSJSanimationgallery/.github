@@ -1,0 +1,39 @@
+name: "✨ Feature / Animation Proposal"
+description: "Suggest a new creative animation, UI layout, or micro-interaction demo"
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Have an idea for a creative vanilla HTML/CSS/JS animation? Let us know!"
+  - type: input
+    id: title
+    attributes:
+      label: "Animation / Component Concept"
+      placeholder: "e.g. 3D Gyroscopic Card Tilt with Specular Lighting"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "Detailed Description"
+      description: "Describe the visual behavior, keyframe progression, and expected interaction."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Target Category"
+      options:
+        - "3D & WebGL"
+        - "Cards & Glassmorphism"
+        - "Forms & Authentication"
+        - "Clocks & Calendars"
+        - "Navigation & Menus"
+        - "Buttons & Controls"
+        - "Games & Utilities"
+        - "Templates & Websites"
+        - "Backgrounds & Canvas"
+        - "Special Effects"
+    validations:
+      required: true

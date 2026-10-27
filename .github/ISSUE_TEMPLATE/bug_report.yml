@@ -1,0 +1,41 @@
+name: "🐛 Bug Report"
+description: "Report a visual defect, broken animation, or script error in a demo"
+title: "[BUG]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for reporting an issue in SuleimanHTMLCSSJSanimationgallery! Please fill out the details below."
+  - type: input
+    id: project
+    attributes:
+      label: "Project Name / Directory"
+      description: "Which animation demo or component is affected? (e.g. 3D-Animation-Hover-Effects)"
+      placeholder: "e.g. 3D-Real-Glassmorphism-Testimonials-Card"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the Bug"
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Reproduce"
+      description: "How can maintainers reproduce the issue?"
+      placeholder: |
+        1. Open 'index.html'
+        2. Hover over card element
+        3. Observe stutter or misalignment
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: "Browser & OS"
+      placeholder: "e.g. Chrome 124 on macOS / Safari on iOS"
+    validations:
+      required: false
