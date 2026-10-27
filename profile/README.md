@@ -46,7 +46,7 @@
 | Repozitoriya | Növü | Təsvir və Əhəmiyyəti | Keçid |
 | :--- | :---: | :--- | :---: |
 | 🌐 **[SuleimanHTMLCSSJSanimationgallery.github.io](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery.github.io)** | `Public` 🌍 | **Rəsmi İnteraktiv Veb Portal & Canlı Sərgi:** 57 layihənin ani axtarışı (`/` qısayolu ilə), 10 kateqoriya filtri, daxili modal sandbox önbaxışı, qaranlıq/işıqlı mövzu dəyişdirici və responsiv interfeys. | [🔗 Canlı Portal](https://suleimanhtmlcssjsanimationgallery.github.io/) |
-| 🔒 **[SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)** | `Private` 🔐 | **Əsas Kod Bazası & Resurs Mərkəzi:** Bütün 57 animasiya modulunun tam mənbə kodları, aktivləri, Developer Hazırlığı kurikulumları, qrafik resursları və layihə arxivi. | [📦 Kod Bazası](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery) |
+| 🔒 **[SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)** | `Private` 🔐 | **Əsas Kod Bazası & Obsidian LLM Wiki:** Bütün 57 animasiya modulunun tam mənbə kodları, aktivləri, Developer Hazırlığı kurikulumları, 30+ səhifəlik davamlı `wiki/` bilik bazası və `AGENTS.md` avtonom idarəetmə sxemi. | [📦 Kod Bazası](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery) |
 | ⚙️ **[.github](https://github.com/SuleimanHTMLCSSJSanimationgallery/.github)** | `Public` 🌍 | **Təşkilat Profili & Qlobal Standartlar:** Təşkilatın əsas səhifə dizaynı, brend aktivləri, arxitektura sənədləri və icma təlimatları. | [⚙️ Profil](https://github.com/SuleimanHTMLCSSJSanimationgallery/.github) |
 
 ---
