@@ -11,11 +11,21 @@
 
 <p align="center">
   <a href="https://suleimanhtmlcssjsanimationgallery.github.io/"><img src="https://img.shields.io/badge/🌐_Live_Portal-suleimanhtmlcssjsanimationgallery.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portal"/></a>
-  <a href="https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery"><img src="https://img.shields.io/badge/🔒_Core_Hub-SuleimanHTMLCSSJSanimationgallery-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Core Hub"/></a>
+  <a href="https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery"><img src="https://img.shields.io/badge/🔒_Məxfi_Baza_(Private)-SuleimanHTMLCSSJSanimationgallery-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Core Hub"/></a>
+  <a href="mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery%20Private%20Data%20Vault"><img src="https://img.shields.io/badge/📧_Access_Üçün_Müraciət-suleyman.hacizade1@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Request Access"/></a>
   <a href="https://suleimanhtmlcssjsanimationgallery.github.io/"><img src="https://img.shields.io/badge/🎨_Demos-57_Interactive_Projects-ec4899?style=for-the-badge" alt="Demos"/></a>
   <img src="https://img.shields.io/badge/⚡_Stack-HTML5_·_CSS3_·_JS-10b981?style=for-the-badge" alt="Stack"/>
-  <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-Baku%2C_Azerbaijan-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Məxfi Məlumat Bazası və Giriş İcazəsi (Private Data Vault & Access Request)
+> **🇦🇿 Azərbaycan dilində:** Bu təşkilatın əsas kod bazası, bütün 57+ animasiya modulunun xam mənbə faylları, `Developer-Hazirligi` tədris arxivi və 88+ sənədlik **Obsidian LLM Wiki** bilik bazası (`SuleimanHTMLCSSJSanimationgallery` repozitoriyası) müəllif hüquqlarının və intellektual mülkiyyətin qorunması məqsədilə **Private (Məxfi)** olaraq saxlanılır. Əgər işə qəbul (recruitment), akademik qiymətləndirmə, texniki araşdırma və ya əməkdaşlıq məqsədilə bu məlumatlara və repozitoriyaya **giriş icazəsi (access)** əldə etmək istəyirsinizsə, birbaşa elektron poçt ünvanıma müraciət edə bilərsiniz:  
+> 📧 **E-poçt:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery%20Private%20Data%20Vault)
+>
+> **🇬🇧 In English:** All core source code, raw project datasets, the `Developer-Hazirligi` curriculum archive, and the internal **Obsidian LLM Wiki** knowledge base (`SuleimanHTMLCSSJSanimationgallery` repository) within this organization are strictly **Private** to uphold intellectual property and authorship integrity. If you are a recruiter, academic reviewer, developer, or collaborator and would like to **request access** to the private repositories and data, please apply directly via email:  
+> 📧 **Email:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery%20Private%20Data%20Vault)
 
 ---
 
@@ -24,14 +34,14 @@
 * **Təsisçi və Layihə Rəhbəri:** **Süleyman Hacızadə** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
 * **Təhsil Müəssisəsi:** **Qərbi Kaspi Universiteti** (*Western Caspian University*), Bakı, Azərbaycan
 * **İxtisas İstiqaməti:** *Frontend Development, Bioinformatika və Kompüter Elmləri*
-* **Rəsmi Əlaqə:** `suleyman.hacizade1@gmail.com`
+* **Giriş İcazəsi və Rəsmi Əlaqə (Access Requests & Contact):** [`suleyman.hacizade1@gmail.com`](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery%20Private%20Data%20Vault)
 * **Şəxsi GitHub Portfeli:** [github.com/SuleimanHajizadeh](https://github.com/SuleimanHajizadeh)
 
 ---
 
 ## 🌟 Təşkilatın Missiyası (Organization Mission)
 
-**SuleimanHTMLCSSJSanimationgallery** — müasir veb proqramlaşdırmanın fundamental əsasları (Vanilla Web Technologies: **HTML5, CSS3 və təmiz JavaScript**) üzərində qurulmuş, heç bir xarici asılılıq və ya ağır freymvork tələb etməyən 57-dən çox yaradıcı dizayn, mikro-qarşılıqlı əlaqə (micro-interaction) və animasiya həllərini bir araya gətirən mərkəzləşdirilmiş açıq mənbəli təşkilatdır.
+**SuleimanHTMLCSSJSanimationgallery** — müasir veb proqramlaşdırmanın fundamental əsasları (Vanilla Web Technologies: **HTML5, CSS3 və təmiz JavaScript**) üzərində qurulmuş, heç bir xarici asılılıq və ya ağır freymvork tələb etməyən 57-dən çox yaradıcı dizayn, mikro-qarşılıqlı əlaqə (micro-interaction) və animasiya həllərini bir araya gətirən mərkəzləşdirilmiş təşkilatdır. *(Qeyd: Təşkilatın əsas mənbə kodları və daxili dataları **Private** statusdadır; giriş icazəsi üçün `suleyman.hacizade1@gmail.com` ünvanına müraciət edə bilərsiniz).*
 
 ### Fəlsəfəmiz:
 1. **Zero-Dependency Vanilla Purity:** Hər bir layihə xam veb standartlarına əsaslanır; node paketləri və ya mürəkkəb derləmə mərhələləri olmadan istənilən brauzerdə dərhal işə düşür.
@@ -43,10 +53,10 @@
 
 ## 🗂️ Rəsmi Repozitoriyalar / Official Repositories
 
-| Repozitoriya | Növü | Təsvir və Əhəmiyyəti | Keçid |
+| Repozitoriya | Növü | Təsvir və Əhəmiyyəti | Keçid / Giriş |
 | :--- | :---: | :--- | :---: |
 | 🌐 **[SuleimanHTMLCSSJSanimationgallery.github.io](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery.github.io)** | `Public` 🌍 | **Rəsmi İnteraktiv Veb Portal & Canlı Sərgi:** 57 layihənin ani axtarışı (`/` qısayolu ilə), 10 kateqoriya filtri, daxili modal sandbox önbaxışı, qaranlıq/işıqlı mövzu dəyişdirici və responsiv interfeys. | [🔗 Canlı Portal](https://suleimanhtmlcssjsanimationgallery.github.io/) |
-| 🔒 **[SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)** | `Private` 🔐 | **Əsas Kod Bazası & Obsidian LLM Wiki:** Bütün 57 animasiya modulunun tam mənbə kodları, aktivləri, Developer Hazırlığı kurikulumları, 30+ səhifəlik davamlı `wiki/` bilik bazası və `AGENTS.md` avtonom idarəetmə sxemi. | [📦 Kod Bazası](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery) |
+| 🔒 **[SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)** | `Private` 🔐 | **Məxfi Əsas Kod Bazası & Obsidian LLM Wiki:** Bütün 57 animasiya modulunun tam mənbə kodları, aktivləri, `Developer-Hazirligi` kurikulumları, 88+ səhifəlik davamlı `wiki/` bilik bazası və `AGENTS.md` avtonom idarəetmə sxemi. *(Giriş yalnız dəvətlədir)* | [📧 Access İstə](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery) |
 | ⚙️ **[.github](https://github.com/SuleimanHTMLCSSJSanimationgallery/.github)** | `Public` 🌍 | **Təşkilat Profili & Qlobal Standartlar:** Təşkilatın əsas səhifə dizaynı, brend aktivləri, arxitektura sənədləri və icma təlimatları. | [⚙️ Profil](https://github.com/SuleimanHTMLCSSJSanimationgallery/.github) |
 
 ---
@@ -140,12 +150,14 @@ Branding Assets  : Scalable Vector Graphics (SVG), Web App Manifest (PWA complia
 ## 🔗 Ekosistem Keçidləri
 
 * 🌐 **Rəsmi Veb Portal:** [https://suleimanhtmlcssjsanimationgallery.github.io/](https://suleimanhtmlcssjsanimationgallery.github.io/)
-* 📂 **Əsas Kod Reposu:** [SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)
+* 🔒 **Məxfi Əsas Kod Reposu (Access üçün müraciət edin):** [SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery/SuleimanHTMLCSSJSanimationgallery)
 * 🏢 **GitHub Təşkilat Səhifəsi:** [https://github.com/SuleimanHTMLCSSJSanimationgallery](https://github.com/SuleimanHTMLCSSJSanimationgallery)
+* 📧 **Access Müraciətləri və Əlaqə:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery)
 * 👤 **Təsisçinin Şəxsi Profili:** [Suleiman Hajizadeh](https://github.com/SuleimanHajizadeh)
 
 ---
 
 <p align="center">
-  <sub>© 2026 SuleimanHTMLCSSJSanimationgallery. Western Caspian University • Baku, Azerbaijan. Bütün hüquqlar qorunur.</sub>
+  <sub>© 2026 SuleimanHTMLCSSJSanimationgallery. Western Caspian University • Baku, Azerbaijan. Bütün hüquqlar qorunur.</sub><br>
+  <sub>🔒 <i>Bütün daxili məlumatlar və əsas kod bazası məxfidir (Private). Giriş icazəsi (access) üçün: <a href="mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHTMLCSSJSanimationgallery">suleyman.hacizade1@gmail.com</a></i></sub>
 </p>
